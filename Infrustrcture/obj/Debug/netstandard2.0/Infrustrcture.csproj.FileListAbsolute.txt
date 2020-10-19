@@ -1,0 +1,12 @@
+C:\Users\tzvi2\Desktop\skinet\Infrustrcture\bin\Debug\netstandard2.0\Infrustrcture.deps.json
+C:\Users\tzvi2\Desktop\skinet\Infrustrcture\bin\Debug\netstandard2.0\Infrustrcture.dll
+C:\Users\tzvi2\Desktop\skinet\Infrustrcture\bin\Debug\netstandard2.0\Infrustrcture.pdb
+C:\Users\tzvi2\Desktop\skinet\Infrustrcture\obj\Debug\netstandard2.0\Infrustrcture.csprojAssemblyReference.cache
+C:\Users\tzvi2\Desktop\skinet\Infrustrcture\obj\Debug\netstandard2.0\Infrustrcture.AssemblyInfoInputs.cache
+C:\Users\tzvi2\Desktop\skinet\Infrustrcture\obj\Debug\netstandard2.0\Infrustrcture.AssemblyInfo.cs
+C:\Users\tzvi2\Desktop\skinet\Infrustrcture\obj\Debug\netstandard2.0\Infrustrcture.csproj.CoreCompileInputs.cache
+C:\Users\tzvi2\Desktop\skinet\Infrustrcture\obj\Debug\netstandard2.0\Infrustrcture.dll
+C:\Users\tzvi2\Desktop\skinet\Infrustrcture\obj\Debug\netstandard2.0\Infrustrcture.pdb
+C:\Users\tzvi2\Desktop\skinet\Infrustrcture\bin\Debug\netstandard2.0\Core.dll
+C:\Users\tzvi2\Desktop\skinet\Infrustrcture\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\tzvi2\Desktop\skinet\Infrustrcture\obj\Debug\netstandard2.0\Infrustrcture.csproj.CopyComplete

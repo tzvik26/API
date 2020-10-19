@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2tgLVUoRrFoCFIIjyzf1X8xX0uZnbSbuKYHcF5vbjj6Pnxjuwkho/ZbnTRzi1Qzr8qoHH+KHWh1Zf0nrQs1Nog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tzvi2\\Desktop\\skinet\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tzvi2\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tzvi2\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
