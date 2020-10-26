@@ -11,7 +11,7 @@ namespace Infrustrcture.Data
 {
     public class StoreContextSeed
     {
-        public static async Task SeedAsync(StoreContext context, ILoggerFactory logger)
+        public static async Task SeedAsync(StoreContext context, ILoggerFactory LoggerFactory)
         {
             try
             {
@@ -55,7 +55,7 @@ namespace Infrustrcture.Data
             }
             catch (Exception ex)
             {
-                logger = LoggerFactory.CreateLogger<StoreContext>();
+                var logger = LoggerFactory.CreateLogger<StoreContextSeed>();
                 logger.LogError(ex.Message);
             }
         }
