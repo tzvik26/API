@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\tzvi2\\Desktop\\skinet\\Infrustrcture\\Infrustrcture.csproj": {
-                "projectPath": "C:\\Users\\tzvi2\\Desktop\\skinet\\Infrustrcture\\Infrustrcture.csproj"
+              "C:\\Users\\tzvi2\\Desktop\\skinet\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\tzvi2\\Desktop\\skinet\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -130,14 +130,14 @@
         }
       }
     },
-    "C:\\Users\\tzvi2\\Desktop\\skinet\\Infrustrcture\\Infrustrcture.csproj": {
+    "C:\\Users\\tzvi2\\Desktop\\skinet\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tzvi2\\Desktop\\skinet\\Infrustrcture\\Infrustrcture.csproj",
-        "projectName": "Infrustrcture",
-        "projectPath": "C:\\Users\\tzvi2\\Desktop\\skinet\\Infrustrcture\\Infrustrcture.csproj",
+        "projectUniqueName": "C:\\Users\\tzvi2\\Desktop\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "C:\\Users\\tzvi2\\Desktop\\skinet\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\tzvi2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tzvi2\\Desktop\\skinet\\Infrustrcture\\obj\\",
+        "outputPath": "C:\\Users\\tzvi2\\Desktop\\skinet\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

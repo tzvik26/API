@@ -441,7 +441,7 @@
           "bin/placeholder/Core.dll": {}
         }
       },
-      "Infrustrcture/1.0.0": {
+      "Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -450,10 +450,10 @@
           "Microsoft.EntityFrameworkCore.Sqlite": "3.1.9"
         },
         "compile": {
-          "bin/placeholder/Infrustrcture.dll": {}
+          "bin/placeholder/Infrastructure.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Infrustrcture.dll": {}
+          "bin/placeholder/Infrastructure.dll": {}
         }
       }
     }
@@ -1172,15 +1172,15 @@
       "path": "../Core/Core.csproj",
       "msbuildProject": "../Core/Core.csproj"
     },
-    "Infrustrcture/1.0.0": {
+    "Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../Infrustrcture/Infrustrcture.csproj",
-      "msbuildProject": "../Infrustrcture/Infrustrcture.csproj"
+      "path": "../Infrastructure/Infrastructure.csproj",
+      "msbuildProject": "../Infrastructure/Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Infrustrcture >= 1.0.0",
+      "Infrastructure >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.9"
     ]
   },
@@ -1191,11 +1191,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tzvi2\\Desktop\\skinet\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\tzvi2\\Desktop\\skinet\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\tzvi2\\Desktop\\skinet\\API\\API.csproj",
+      "projectPath": "C:\\Users\\tzvi2\\Desktop\\skinet\\api\\API.csproj",
       "packagesPath": "C:\\Users\\tzvi2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tzvi2\\Desktop\\skinet\\API\\obj\\",
+      "outputPath": "C:\\Users\\tzvi2\\Desktop\\skinet\\api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1214,8 +1214,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\tzvi2\\Desktop\\skinet\\Infrustrcture\\Infrustrcture.csproj": {
-              "projectPath": "C:\\Users\\tzvi2\\Desktop\\skinet\\Infrustrcture\\Infrustrcture.csproj"
+            "C:\\Users\\tzvi2\\Desktop\\skinet\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\tzvi2\\Desktop\\skinet\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
